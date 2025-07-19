@@ -1,1 +1,1 @@
-## This file/repository contains all the wethinkcode learning plan projects, you will find others in the other branches.
+## This Project Takes user input then converts every word to lowercase.
