@@ -1,0 +1,1 @@
+### This Program allows user to input the Amount of the food they ordered and how much tip in % they woud like to leave, the the program calculates how much money the tip is.
