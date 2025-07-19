@@ -1,0 +1,1 @@
+### This program Promts the user to input an equation in order to perform a math calculation e.g "1+2".
