@@ -1,0 +1,1 @@
+### This Program Prompts the user to input a smiley face or a frowning face emoticon ":) or :(" then converts it to the corresponding emoji.
