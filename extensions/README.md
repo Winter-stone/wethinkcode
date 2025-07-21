@@ -1,0 +1,1 @@
+### This programs prompts the user to input a file/image and it's extension so to retrieve the corresponding item.
