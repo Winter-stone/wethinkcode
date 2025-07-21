@@ -1,0 +1,1 @@
+### This program return the amount of money a client would get depending on how the back teller greets the client.
