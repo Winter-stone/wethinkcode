@@ -1,0 +1,1 @@
+### This program prompts the user to input 2 to 6 alphanumeric characters to create a vanity plate.
