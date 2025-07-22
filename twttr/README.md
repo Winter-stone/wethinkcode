@@ -1,0 +1,1 @@
+### This program prompts the user to input a string, then it returns the same string with vowels ommited from it.
