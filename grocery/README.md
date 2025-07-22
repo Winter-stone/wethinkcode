@@ -1,0 +1,1 @@
+### This program prompts the user to input items one per line, until user presses ctrl+d then the program returns a list of items.
