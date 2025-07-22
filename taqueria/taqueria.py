@@ -14,6 +14,7 @@ while True:
     try:
         item = input("Item: ").title().strip()
     except EOFError:
+        print()
         break
     else:
         if item in menu:
