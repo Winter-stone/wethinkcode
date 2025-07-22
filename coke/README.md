@@ -1,0 +1,1 @@
+### In this program, we prompt the user to insert coins (25, 10, and 5 cents), to buy a can/bottle of coke costs 50 cents, so the if the user inserts 50 cents with no change, program will output change owed if any.
