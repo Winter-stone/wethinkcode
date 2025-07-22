@@ -1,0 +1,1 @@
+### This program takes user inputs of items from a menu, A user can select as many items as they want, at the end of the program, the output is the total for buying each item.
