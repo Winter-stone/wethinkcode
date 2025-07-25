@@ -1,0 +1,1 @@
+### This program prompts the user for a name, one per line until user presses ctrl + d, the the program stops running and outputs "Adieu, adieu to, {All the names from the user input}" while adding a comma, after every name and an "and" before the last name in the list.
