@@ -1,0 +1,2 @@
+# Test Cases
+This program is a test case program, The main function of this program is to take an input as a string and returns the string with all vowels omitted from  the string. The test case is defined to test if the program will return the excpected string whether or not the vowels are Capitalized, if the string contains numbers and or punctuations.
