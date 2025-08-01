@@ -1,0 +1,2 @@
+# Refueling Test Cases
+In this test case we are testing two different functions, 'convert' & 'gauge', convert returns a fraction as a rounded off integer and gauge returns that integer as strindg in percentage.
