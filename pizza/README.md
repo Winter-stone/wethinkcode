@@ -1,0 +1,2 @@
+# Pizza Menu
+This program if a File I/O program that reads and displays csv files. in our files we have regular.csv and silicon.csv, this program allows the user to use sys and specifiy with csv file to display using the tabulate library.
