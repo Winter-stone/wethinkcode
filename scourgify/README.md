@@ -1,0 +1,2 @@
+# CSV Manipulation
+This programs takes two inputs, one as an existing file, and the other as a new file that will be created from the existing file, the existing file consist of two columns (name, house) the name column consists of first name and last name, this program splits the first and last name and create two different columns then append all this information to the new file.
