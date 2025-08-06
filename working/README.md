@@ -1,0 +1,2 @@
+# Time Format
+In this program, we prompt the user to pass in a string that contains shift start time to shift knock off time e.g.(9 am to 5 pm), case insensitively, the if either of the times' is in a 12 hour format, the program converts it to a 24-hour format.
