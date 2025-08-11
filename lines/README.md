@@ -1,0 +1,2 @@
+# File I/O
+In this program we will be reading the contents inside a python file .py, This program counts how many lines of code are present in the file whilst ignoring the whitespaces, comments and doc strings.
