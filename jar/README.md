@@ -1,0 +1,2 @@
+# Cookie Jar
+This program is called cookie jar because it prompts the user to either withdraw or deposite cookies in a jar. it return the maximum capacity of the jar, how many cookies are in the jar in integers and in the form of "🍪" depending on how many cookies are in the cookie jar.
