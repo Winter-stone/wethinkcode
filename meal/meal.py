@@ -1,8 +1,6 @@
 def main():
-    time = input('Enter current time: ').lower().strip().strip("''").strip('""').split(':')
-    print(time)
+    time = input('What time is it?: ').lower()
     meal = convert(time)
-    print(meal)
 
     if meal is not None:
         if 7.0 <= meal < 8.01:
@@ -18,6 +16,7 @@ def main():
             pass
 
 def convert(time):
+    time = time.strip().split(":")
     if len(time) > 1:
         if time[1][3:] == 'p.m.':
             time[0] = int(time[0]) + 12
