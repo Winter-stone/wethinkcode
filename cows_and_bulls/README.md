@@ -1,6 +1,6 @@
 # Cows & Bulls Game
 
-#### Video Demo:  
+#### Video Demo: https://youtu.be/24l6DpIBtnA
 #### Description: This is my very first python project that I have ever created, This program is a cows & bulls game which a user gets to play with the CPU/Computer.
 
 ## TODO
@@ -27,7 +27,7 @@ E.g.
 Guess The Computer Secret Number:
 >>> 3478
 
-You can visit <URL Here> my video demo on youtube where I am explaining how the game works and examples of how my program runs.
+You can visit https://youtu.be/24l6DpIBtnA and watch my video demo on youtube where I am explaining how the game works and examples of how my program runs.
 
 ## Game Rules
 This game is called cows and bulls because of the feedback that is given after each guess, the bulls counts how many digits are guessed correctly in the order they are placed, and cows counts how many digits are guessed correctly in the wrong position from where they are placed.
