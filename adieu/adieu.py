@@ -1,20 +1,18 @@
+import inflect
+p = inflect.engine()
 names = []
 
-while True:
-    try:
-        name = input('Name: ').strip().capitalize()
-    except EOFError:
-        if len(names) > 0:
-            if len(names) > 2:
-                names = ", ".join(names)
-                names = names[-1::-1].replace(" ", ' dna ', 1)
-                print("Adieu, adieu, to", names[-1::-1])
+def main():
+    while True:
+        try:
+            names.append(input('Name: ').strip().capitalize())
+        except EOFError:
+            print(convert(names))
+            break
 
-            else:
-                names = " and ".join(names)
-                print("Adieu, adieu, to", names)
-        break
+def convert(join_all):
+    return f'''
+Adieu, adieu, to {p.join(join_all)}'''
 
-    else:
-        if len(name) > 0:
-            names.append(name)
+if __name__ == '__main__':
+    main()
